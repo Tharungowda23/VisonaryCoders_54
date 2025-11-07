@@ -17,7 +17,7 @@ Using **GPS location + Price comparison**, the system ranks pharmacies to show t
 ## 🎯 Key Features
 
 - 🔍 Search for medicines by name  
-- 📷 Upload prescription image (simulated OCR detection)  
+- 📷 Upload prescription image 
 - 📍 Detect user’s current location using GPS  
 - 🏪 Show nearby pharmacies on a **map** using Leaflet  
 - 💸 Compare medicine **prices** across stores  
@@ -32,7 +32,7 @@ Using **GPS location + Price comparison**, the system ranks pharmacies to show t
 | Component | Technology |
 |----------|------------|
 | Frontend | HTML, CSS, JavaScript |
-| Backend API | Node.js + Express.js |
+| Backend API | Node.js |
 | File Upload | Multer |
 | Mapping | Leaflet.js (OpenStreetMap) |
 | User Session | LocalStorage |
