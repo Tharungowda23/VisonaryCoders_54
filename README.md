@@ -49,5 +49,4 @@ Using **GPS location + Price comparison**, the system ranks pharmacies to show t
 
 ---
 
-## 📂 Project Structure
 
